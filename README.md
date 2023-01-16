@@ -1,2 +1,2 @@
 # multiclass-classification-CNN
-Keras Sequential Model for classifiying images belonging to 5 different flower species
+Created a predictive deep learning model using TensorFlow Convolution Neural Network (CNN) for image classification of 5 flower species.
